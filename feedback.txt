@@ -1,1 +1,24 @@
+Patrick Walsh (walsh968) Max Lane(lmax20) Rushi Bhut(rushibhut) John Nguyen(Johnnguyen02)
+
+Being that no one in our group is too well versed in javascript and the site could not be ran we decided, being that this program was genereated by chatgpt, to ask it for feedback on this code and this is what it had to say:
+
+Consistency: You're using const consistently for express, app, and port, which is good practice.
+
+Readability: The code is clear and easy to understand. The endpoint /user/:id/topFiveMovies is descriptive and follows RESTful conventions.
+
+Error Handling: The error handling is well-implemented with a 404 status and message when a user is not found. It might be beneficial to log the error or send more detailed error messages during development for debugging purposes.
+
+Comments: While your code is relatively short and easy to follow, consider adding comments for more complex logic or if someone else is going to maintain the code.
+
+Mock Data: Using mock data for testing is great. Just ensure that you handle this data securely and possibly switch to a database when moving to a production environment.
+
+Modularity: As your application grows, you might want to consider breaking it into separate modules for routes, data handling, etc., to maintain a clean and organized codebase.
+
+Overall, it's a good starting point for a simple Express application. Keep up the good work!
+
+
+
+
+
+
 
